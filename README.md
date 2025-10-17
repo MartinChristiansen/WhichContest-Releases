@@ -1,5 +1,5 @@
 # WhichContest af OZ1IKU
-![main window](https://raw.githubusercontent.com/MartinChristiansen/WhichContest-Releases/blob/main/screenshot.png)
+![main window](https://github.com/MartinChristiansen/WhichContest-Releases/blob/main/Screenshot.png)
 
 ## Hvad er det?
 **Du kender det sikkert:** Du sidder og surfer lidt rundt på din radio, og pludselig hører du på SSB nogen kalde *"CQ Contest CQ Contest de DL3ABC"*. Hvad er det mon for en contest, der er gang i, og er det én, du kan deltage i? Eller bare lave et par QSO'er med? Hvilke informationer skal udveksles? Hvor længe varer den? Hvad er reglerne? I stedet for at starte en browser op og lede efter en contest-kalenderside, så klikker du bare på det lille "CQ"-ikon i nederste, højre hjørne af din skærm, og straks popper et lille vindue op med de vigtigste info om lige netop den contest, du sidder og lytter på lige nu - for du har nemlig installeret **WhichContest**-programmet på computeren ved din radio! 
