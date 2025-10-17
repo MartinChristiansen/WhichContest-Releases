@@ -20,6 +20,7 @@ Programmet henter sine data fra **WA7BNM Contest Calender**'s 8-dages oversigt (
 
 ## De vigtigste features:
 - Programmet er til Windows
+- Programmet er gratis - ingen restriktioner.
 - Programmet er på engelsk
 - Kører umærkeligt i baggrunden
 - Kan selv sige til, når contester, du er interesseret i, starter, eller snart skal starte
