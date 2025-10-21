@@ -36,6 +36,10 @@ Programmet henter sine data fra **WA7BNM Contest Calender**'s 8-dages oversigt (
 - Mange muligheder for filtrering
 
   
+## Feedback:
+Kommentarer og gode idéer til forbedringer sendes direkte til udvikleren, **OZ1IKU Martin Christiansen, email: martin@martinogkarin.dk**
+
+
 ## Versionshistorik:
 
 ### 1.0.0.0:
