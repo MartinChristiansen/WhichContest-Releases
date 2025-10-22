@@ -8,7 +8,7 @@ I stedet for at starte en browser op og lede efter en contest-kalenderside, så 
 
 **WhichContest** er et program, som automatisk og løbende holder dig orienteret om alle de contester, som kommer, starter, slutter og er i gang, imens du sidder ved computeren ved din radio - helt uden at du skal gøre noget som helst. Programmet kører usynligt i baggrunden, indtil en contest, som måtte have din interesse, er ved at skulle starte (1 time før), eller starter nu, eller du klikker på programmets ikon i systembakken/system tray. Når det sker, popper der et vindue op på din skærm, som fortæller de vigtigste ting om contesten, og hvorfra du kan klikke dig videre ind på contestens officielle hjemmeside med regler. 
 
-I programmet kan man forhåndsidstille, hvilke bånd og modes man er interesseret i, så man kun får de contester at se, som svarer til ens interesser og de bånd, man rent faktisk kan køre. Programmet kan også aflæse din radios VFO (via OmniRig), således at du hele tiden kun får de contester at se, som er aktuelle for netop det bånd og den mode, din radio er indstillet på lige nu. 
+I programmet kan man forhåndsindstille, hvilke bånd og modes man er interesseret i, så man kun får de contester at se, som svarer til ens interesser og de bånd, man rent faktisk kan køre. Programmet kan også aflæse din radios VFO (via OmniRig), således at du hele tiden kun får de contester at se, som er aktuelle for netop det bånd og den mode, din radio er indstillet på lige nu. 
 
 Når først du har installeret programmet, så starter det automatisk op og kører usynligt i baggrudnen, hver gang du tænder din computer, så det altid er klar til at fortælle dig om, hvad der sker på contestfronten lige nu.
 
