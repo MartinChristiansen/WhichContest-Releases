@@ -14,7 +14,7 @@ Når først du har installeret programmet, så starter det automatisk op og kør
 
 
 ## Hent seneste version her
-Downloadlink (downloader, når du klikker): [WhichContestSetup.msi 1.0.0.0](https://github.com/MartinChristiansen/WhichContest-Releases/releases/download/v1.0.0.0/WhichContest_1_0_0_0.msi)
+Downloadlink (downloader, når du klikker): [WhichContestSetup.msi 1.1.0.0](https://github.com/MartinChristiansen/WhichContest-Releases/releases/download/v1.1.0.0/WhichContest_1_1_0_0.msi)
 
 Link til [alle releases](https://github.com/MartinChristiansen/WhichContest-Releases/releases)
 
@@ -27,6 +27,7 @@ Programmet henter sine data fra **WA7BNM Contest Calender**'s 8-dages oversigt (
 - Programmet er til Windows
 - Programmet er gratis - ingen restriktioner.
 - Kører umærkeligt videre i baggrunden, når du lukker programmets hovedvindue
+- EDRs og NARUs danske contester er inkluderet
 - Programmet popper automatisk op igen, når en contest, som falder indenfor dine interesser, starter, eller snart skal starte
 - Programmet kan til enhver tid kaldes frem igen ved at klikke på programmets CQ-ikon i systembakken/System Tray
 - Automatisk tjek for, om der findes en nyere version (opdateringsmeddelelse)
@@ -41,6 +42,22 @@ Kommentarer og gode idéer til forbedringer sendes direkte til udvikleren, **OZ1
 
 
 ## Versionshistorik:
+
+### 1.1.0.0:
+- **Contester for de højere bånd (VHF/UHF/SHF) tilføjet** (stadig fra WA7BNM Contest Calender)
+- **10 rent danske contester tilføjet:**
+   - EDRs 80m aktivitetstest
+   - EDRs Juletest
+   - EDRs Nytårstest
+   - EDRs Skærtorsdagstest
+   - NAC OZ 50 MHz aktivitetstest
+   - NAC OZ 70 MHz aktivitetstest
+   - NAC OZ 144 MHz aktivitetstest
+   - NAC OZ 432 MHz aktivitetstest
+   - NAC OZ 1,3 GHz aktivitetstest
+   - NAC OZ Mikrobølgeaktivitetstest
+- **Mindre kosmetiske forbedringer**
+- **Tilføjet adskillige HF-contests fra WA7BNN Contest Calender**, som før sprunget over (pga. dårlig parsning)
 
 ### 1.0.0.0:
 - Første version af programmet.
