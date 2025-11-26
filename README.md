@@ -14,7 +14,7 @@ Når først du har installeret programmet, så starter det automatisk op og kør
 
 
 ## Hent seneste version her
-Downloadlink (downloader, når du klikker): [WhichContestSetup.msi 1.1.0.0](https://github.com/MartinChristiansen/WhichContest-Releases/releases/download/v1.1.0.0/WhichContest_1_1_0_0.msi)
+Downloadlink (downloader, når du klikker): [WhichContestSetup.msi 1.2.0.0](https://github.com/MartinChristiansen/WhichContest-Releases/releases/download/v1.2.0.0/WhichContest_1_2_0_0.msi)
 
 Link til [alle releases](https://github.com/MartinChristiansen/WhichContest-Releases/releases)
 
@@ -42,6 +42,10 @@ Kommentarer og gode idéer til forbedringer sendes direkte til udvikleren, **OZ1
 
 
 ## Versionshistorik:
+
+### 1.2.0.0
+- **Fikset et problem med OmniRig**, som forhindrede, at WhichContest kunne dele OmniRig med andre programmer (se release notes for teknisk forklaring).
+- Det er nu muligt at **lukke programmet helt** ved at holde højre SHIFT-tast nede, imens man klikker på lukke-krydset i programvinduet (almindelig lukning uden SHIFT-tast får bare programmet til at gå i dvale, indtil der er noget nyt at vise).
 
 ### 1.1.0.0:
 - **Contester for de højere bånd (VHF/UHF/SHF) tilføjet** (stadig fra WA7BNM Contest Calender)
